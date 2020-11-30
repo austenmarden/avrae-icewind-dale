@@ -18,16 +18,39 @@ Take a few moments to describe the changes that you have undergone. Describe why
 ## Commands
 _Note: commands must be entered one at a time_
 ```
+
 !monimage "Animated Armor"
     (option 1)
 !monster "Animated Armor"
     (option 1)
+```
+
+```
+!multiline
 !i begin
 !i madd "Animated Armor" -n 2 -name "Animated Armor #"
 !i add 15 "The Portal Quakes" -p
+```
+
+```
 !i next
 !i attack slam -t <target> 
-    -phrase "The animated armor slams its arms downward in a jerky overhead motion, slamming them towards you!"
+    -phrase "The animated armor swings its arms downward in a jerky overhead motion, slamming them towards you!"
     -phrase "A large metal encased foot stomps the ground in front of you, splintering the hard tiles and sending sharp shards cascading around you!"
     -phrase "The metal monstrosity contorts its upper body like a top and unleashes itself in a flurry of spinning fists!"
 ```
+
+### Aliases
+
+#### Portal Turn Alias
+```
+!alias 000-portal-turn embed {{cc="The Portal Quakes!"}} 
+<drac2>
+rollValue = roll("1d20")
+combinedValue = rollValue + dexteritySave
+</drac2>
+ -desc "The ground lurches beneath {{name}}'s feet! {{name}} rolled a dexterity saving throw and got {rollValue} + {dexteritySave}: {combinedValue}!"  -title "The Portal Quakes"
+```
+
+## Conclusion
+If the players defeat both animated armors, the group receives a total of 400 XP (split evently amongst the players)
