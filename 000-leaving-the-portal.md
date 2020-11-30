@@ -16,24 +16,30 @@ Take a few moments to describe the changes that you have undergone. Describe why
 > You feel the air slowly starting to get sucked from the room as a gust of wind slams the door towards the portal closed. The ground rumbles beneath your feet. There's no mistaking that this place is going to crash down around you, trapping you here for eternity!
 
 ## Commands
-_Note: commands must be entered one at a time_
-```
 
+### Monster Images
+```
 !monimage "Animated Armor"
     (option 1)
 !monster "Animated Armor"
     (option 1)
 ```
 
+### Combat Start
 ```
 !multiline
 !i begin
 !i madd "Animated Armor" -n 2 -name "Animated Armor #"
 !i add 15 "The Portal Quakes" -p
 ```
-
+Wait for everyone to join the combat, then:
 ```
 !i next
+```
+
+### Monster Attacks
+
+```
 !i attack slam -t <target> 
     -phrase "The animated armor swings its arms downward in a jerky overhead motion, slamming them towards you!"
     -phrase "A large metal encased foot stomps the ground in front of you, splintering the hard tiles and sending sharp shards cascading around you!"
@@ -41,7 +47,6 @@ _Note: commands must be entered one at a time_
 ```
 
 ### Aliases
-
 #### Portal Turn Alias
 ```
 !alias 000-portal-turn embed {{cc="The Portal Quakes!"}} 
