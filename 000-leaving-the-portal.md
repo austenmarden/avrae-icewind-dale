@@ -57,7 +57,7 @@ rollValue = roll("1d20")
 combinedValue = rollValue + dexteritySave
 rollResults = f"{name} passed the test!"
 if combinedValue <= 10:
-  damage = roll("1d4") + 1
+  damage = roll("1d3")
   character().modify_hp(-1 * damage)
   rollResults = f"{name} failed the test and took {damage} damage! {'' if character().hp > 0 else 'They have fallen unconcious!'}"
 </drac2>
