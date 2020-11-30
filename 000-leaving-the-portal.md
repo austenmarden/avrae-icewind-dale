@@ -48,13 +48,26 @@ Wait for everyone to join the combat, then:
 
 ### Aliases
 #### Portal Turn Alias
+
+After creating this alias, have a user type `!000-portal-turn` to run it
 ```
-!alias 000-portal-turn embed {{cc="The Portal Quakes!"}} 
+!serveralias portal-turn embed {{cc="The Portal Quakes!"}} 
 <drac2>
 rollValue = roll("1d20")
 combinedValue = rollValue + dexteritySave
+rollResults = f"{name} passed the test!"
+if combinedValue <= 10:
+  damage = roll("1d4") + 1
+  character().modify_hp(-1 * damage)
+  rollResults = f"{name} failed the test and took {damage} damage! {'' if character().hp > 0 else 'They have fallen unconcious!'}"
 </drac2>
- -desc "The ground lurches beneath {{name}}'s feet! {{name}} rolled a dexterity saving throw and got {rollValue} + {dexteritySave}: {combinedValue}!"  -title "The Portal Quakes"
+-f "Hazard|The ground shifts violently beneath {{name}}'s feet!"
+-f "Dexterity Save|{{name}} rolled a dexterity saving throw and got ({rollValue} + {dexteritySave}) : {combinedValue}!"
+-f "Results|{{rollResults}}"
+-f "Health|{{character().hp_str()}}|inline"
+-thumb {{image}}
+-image "https://www.tribality.com/wp-content/uploads/2020/06/5d060c09e2dee2bd088f7494924d84091.jpg"
+-title "The Portal Quakes"
 ```
 
 ## Conclusion
