@@ -23,6 +23,11 @@ _Note: commands must be entered one at a time_
 !monster "Animated Armor"
     (option 1)
 !i begin
-!i madd "Animated Armor" -n 2 -name "Animated Armor#"
+!i madd "Animated Armor" -n 2 -name "Animated Armor #"
 !i add 15 "The Portal Quakes" -p
+!i next
+!i attack slam -t <target> 
+    -phrase "The animated armor slams its arms downward in a jerky overhead motion, slamming them towards you!"
+    -phrase "A large metal encased foot stomps the ground in front of you, splintering the hard tiles and sending sharp shards cascading around you!"
+    -phrase "The metal monstrosity contorts its upper body like a top and unleashes itself in a flurry of spinning fists!"
 ```
