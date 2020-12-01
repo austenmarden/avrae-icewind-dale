@@ -39,7 +39,7 @@ _Approaching the square, you see three figures dressed in black flowing garb wea
 !i begin
 !i madd "Cultist" -n 2 -name "Cultist #"
 !i madd "Vargouille" -n 1 -name "Demon #"
-!i add 5 "The Ritual Strengthens" -p
+!i add 5 "The Ritual Strengthens" -p -hp 12
 ```
 Wait for everyone to join the combat, then:
 ```
@@ -52,6 +52,12 @@ Wait for everyone to join the combat, then:
 
 The cultists not engaged with the party will continue to try to summon their actual demon target, a Bulezau named Kyyr'ilzx'leth that they believe will welcome them with open hooves. Each turn that the ritual continues, for each cultists participating in the ritual, 1 point of summoning is added to the pool. The ritual needs 12 points to complete.
 
+Run the following to reducce the ritual "HP" by the number of participating cultists:
+```
+!init hp mod Ritual -<cultist count>
+```
+
+Once the ritual is complete
 ```
 !monimage Bulezau
 !i madd Bulezau -n 1 -name "Kyyr"
@@ -96,7 +102,7 @@ Stunning Shriek: DC 12 WIS Save. Fail: Frightened (Stunned).
 
 1x Scroll of Summon Abyssal Familiar - ? gp -  _This scroll speaks of summoning and binding a ferocious demonic familiar to help you in your travels. A crude drawing, likely scrawled by the hand of the cultist you just killed shows a ferocious thousand tooth lined maw and dark soulless eye_ - This scroll will only summon [Abyssal Chicken](https://www.dndbeyond.com/monsters/abyssal-chicken) familiars. 
 
-1x Assassination Contract - _Brothers and Sisters, word has reached us of a grave undertaker and his family travelling from the south to disturb our stranglehold on the dead in the Dale. We cannot let anyone interfere with our affairs. Find Bhulin Puhi and insure the only graves he'll tend in these forsaken realms are his own! -The Elder_
+1x Assassination Contract - _Brothers and Sisters, word has reached us of a grave undertaker and his family travelling from the south to disturb our stranglehold on the dead in the Dale. We cannot let anyone interfere with our affairs. Find Bhulin Puhi, summon Kyyr'ilzx'leth and insure that the only graves that wretched man tends in these forsaken realms are his own! -The Elder_
 
 1x Black Velvet Mask - 25 gp - _An ornate black velvet mask sitched with silver thread. The word or name Umôrdhoth is repeated several times in crude deep speech across a spiral pattern._
 
