@@ -9,7 +9,7 @@ _This encounter was the final part of the Portal Under The Stars DCC funnel that
 
 Take a few moments to describe the changes that you have undergone. Describe why you chose what you did and how you are different from the villager you once were.
 
-> As you turn to leave the portal you pass through the room with with statues that killed one of the villagers. You notice that their body is gone, no longer pinned to door... and the statues are missing as well. You hear an unmistakable _scrape scrape_ sound coming from the corner of the room and notice that the 2 large statues have animated and are coming to attack you!
+> As you turn to leave the portal you pass through the room with with statues that killed one of the villagers. You notice that their body is gone, no longer pinned to the door... and the statues are missing as well. You hear an unmistakable _scrape scrape_ sound coming from the corner of the room and notice that the 2 large statues have animated and are moving to attack you!
 
 > "Those who wish to free the herald must die in this place!" a metallic gutteral scraping sound echoes from the helmet of one of the constructs as it hefts its weight in your direction.
 
@@ -70,3 +70,5 @@ if combinedValue <= 10:
 
 ## Conclusion
 If the players defeat both animated armors, the group receives a total of 400 XP (split evently amongst the players)
+
+_You crash to the snowy ground as you leap through the quickly dwindling portal. The cold harsh darkness of night assaults your lungs and you feel the ache of frost invade your bones. Standing back up you look back to the standing stones, the once shimmering portal gone from view, and the Empty Star no where in sight. You notice a half dozen pairs of large heavy tracks heading in the opposite direction of the town. From this vantage point, looking down the hill, you can see the village. A large fire has been lit in the townsquare, and your keen eyes can make out several people moving about._  
