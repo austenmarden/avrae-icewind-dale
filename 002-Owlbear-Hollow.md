@@ -100,7 +100,7 @@ Stunning Shriek: DC 12 WIS Save. Fail: Frightened (Stunned).
 
 ### Rewards
 
-1x Scroll of Summon Abyssal Familiar - ? gp -  _This scroll speaks of summoning and binding a ferocious demonic familiar to help you in your travels. A crude drawing, likely scrawled by the hand of the cultist you just killed shows a ferocious thousand tooth lined maw and dark soulless eye_ - This scroll will only summon [Abyssal Chicken](https://www.dndbeyond.com/monsters/abyssal-chicken) familiars. 
+1x Scroll of Summon Abyssal Familiar - ? gp -  _This scroll speaks of summoning and binding a ferocious demonic familiar to help you in your travels. A crude drawing, likely scrawled by the hand of the cultist you just killed, shows a ferocious thousand-toothed lined maw with dark soulless round eyes peering into your soul_ - This scroll will only summon [Abyssal Chicken](https://www.dndbeyond.com/monsters/abyssal-chicken) familiars, and is quite rare and coveted by the more... insane... wizards of the area. 
 
 1x Assassination Contract - _Brothers and Sisters, word has reached us of a grave undertaker and his family travelling from the south to disturb our stranglehold on the dead in the Dale. We cannot let anyone interfere with our affairs. Find Bhulin Puhi, summon Kyyr'ilzx'leth and insure that the only graves that wretched man tends in these forsaken realms are his own! -The Elder_
 
