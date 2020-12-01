@@ -106,7 +106,7 @@ Stunning Shriek: DC 12 WIS Save. Fail: Frightened (Stunned).
 
 1x Crudely Scrawled Instructions on Tattered, Syrup-stained velum - _This note, covered in creases and streaked sticky finger prints, reads: "Brothers and Sisters, word has reached us of a grave undertaker and his family travelling from the south to disturb our stranglehold on the dead in the Dale. We cannot let anyone interfere with our affairs. Find Bhulin Puhi, summon Kyyr'ilzx'leth and insure that the only graves that wretched man tends in these forsaken realms are his own! -The Elder"_
 
-1x Black Velvet Mask - 25 gp - _An ornate black velvet mask sitched with silver thread. The word or name Umôrdhoth is repeated several times in crude deep speech across a spiral pattern._
+1x Black Velvet Mask - 25 gp - _An ornate black velvet mask sitched with silver thread. The word or name Umôrdhoth is stitched several times in crude deep speech around a spiral pattern amongst other unintelligle words and phrases._
 
 1x Ritual Scimitar - 25 gp - 1d6 slashing - 3 lbs - Finesse, Light - _This strangely forged scimitar's blade curves haphazardly, as if forged by the hands of a mad man._
 
