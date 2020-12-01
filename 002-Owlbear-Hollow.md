@@ -20,7 +20,8 @@ Comfort: ❄"
 ```
 
 ## Encounters
-### Fanatic Cultists
+### Syrup Drunk Cultists
+[Encounter](https://www.dndbeyond.com/encounters/f247c668-e6ef-4d43-ab49-4b57181060b9)
 _As you return to the town, something feels... off. The air is stale and a crackling static puts your arm hairs on end. You hear voices up ahead in the town square chanting monotonously._
 
 _Approaching the square, you see three figures dressed in black flowing garb wearing bizarre masks. They are gathered around a large pile of corpses, most of them partly decayed, and all of them covered in various amounts of fresh dirt. You recognize all of the corpses. These are the remains of the villagers that you buried in town just before heading into the portal. The cultists voices mix in an intermingled chant that is part pleasure, part pain. The chant crescendos with a deafening yelp from the trio that mixes with a wailing scream coming from inside the pile of rotting flesh. You watch in horror as the head of Hagatha rips from within the pile of bodies. Two leathery wings flap wildly from where her ears once were. Her face twists into a demonic snarl as she glides into the air with a deafening screech. The cultists all frown at the severed flying head, clearly disappointed at not summoning the right creature, before taking up their chant once again. Hagatha sniffs at the air tentatively before turning her gaze your way... Two more cultists step from behind The Winged Bear, another corpse in tow between them. They drop their quarry quickly when they see you and unsheathe long ritualistic scimitars. The other cultists continue their chant, paying you no mind at all._
@@ -57,7 +58,7 @@ Run the following to reducce the ritual "HP" by the number of participating cult
 !init hp mod Ritual -<cultist count>
 ```
 
-Once the ritual is complete
+Once the ritual is complete, [the encounter escalates](https://www.dndbeyond.com/encounters/d7ee046b-a5ba-47ca-ab55-95d3e4836c54)
 ```
 !monimage Bulezau
 !i madd Bulezau -n 1 -name "Kyyr"
