@@ -47,7 +47,9 @@ Wait for everyone to join the combat, then:
 ```
 
 #### Monster Attacks
-**The Ritual Strengthens**
+
+##### The Ritual Strengthens
+
 The cultists not engaged with the party will continue to try to summon their actual demon target, a Bulezau named Kyyr'ilzx'leth that they believe will welcome them with open hooves. Each turn that the ritual continues, for each cultists participating in the ritual, 1 point of summoning is added to the pool. The ritual needs 12 points to complete.
 
 ```
@@ -66,13 +68,13 @@ Rotting Presence: DC 13 CON Save. Fail: 1d6 + 1 [necrotic] damage.
 !i attack Rotting Presence -t <target> 
 ```
 
-**Cultist**
+##### Cultist
 Scimitar: Attack: +3 to hit. Hit: 1d6 + 1 [slashing] damage.
 ```
 !i attack scimitar -t <target> 
 ```
 
-**Vargouille**
+##### Vargouille
 Bite: Attack: +4 to hit. Hit: 1d6 + 2 [piercing] + 3d6 [poison] damage.
 ```
 !i attack bite -t <target> 
