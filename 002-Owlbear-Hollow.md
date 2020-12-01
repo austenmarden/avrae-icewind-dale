@@ -75,8 +75,12 @@ Stunning Shriek: DC 12 WIS Save. Fail: Frightened (Stunned).
 
 #### Rewards
 
-1x Scroll of Summon Abyssal Familiar - _This scroll speaks of summoning and binding a ferocious demonic familiar to help you in your travels. A crude drawing, likely scrawled by the hand of the cultist you just killed shows a ferocious thousand tooth lined maw and dark soulless eye_
+1x Scroll of Summon Abyssal Familiar - ? gp -  _This scroll speaks of summoning and binding a ferocious demonic familiar to help you in your travels. A crude drawing, likely scrawled by the hand of the cultist you just killed shows a ferocious thousand tooth lined maw and dark soulless eye_ - This scroll will only summon [Abyssal Chicken](https://www.dndbeyond.com/monsters/abyssal-chicken) familiars. 
 
-1x Assassination Contract - _Brothers and Sisters, word has reached us of a grave undertaker and his family travelling from the south to disturb our stranglehold on the dead in Icewind. We cannot let anyone interfere with our affairs. Find Bhulin Puhi and insure the only graves he'll tend in these icy realms are his own!_
+1x Assassination Contract - _Brothers and Sisters, word has reached us of a grave undertaker and his family travelling from the south to disturb our stranglehold on the dead in the Dale. We cannot let anyone interfere with our affairs. Find Bhulin Puhi and insure the only graves he'll tend in these forsaken realms are his own! -The Elder_
 
-2x Black Velvet Mask - _An ornate black velvet mask sitched with silver thread. The word or name Umôrdhoth is repeated several times in crude deep speech across a spiral pattern.
+1x Black Velvet Mask - 25 gp - _An ornate black velvet mask sitched with silver thread. The word or name Umôrdhoth is repeated several times in crude deep speech across a spiral pattern._
+
+1x Scimitar - 25 gp - 1d6 slashing - 3 lbs - Finesse, Light
+
+1x Half Empty Barrel of "Special Syrup"	- 20gp - _A two gallon stone ware jug containing a pungent smelling unknown sticky substance that reeks of cat excrement and old tree sap. The side of the jug is stamped with an emblem of a dead fish with a tree growing out of its guts and the letters N. R. U. in a fancy script below._ - DC10 Nature, DC15 Medicine check: _You can tell that this is hallucinogenic tree sap syrup, a favorite of the downtrodden in Icewind Dale. Its use is outlawed in all of the ten towns, as its most common side effect is delusions of grandeur, breaks with reality and generalized psychosis._
