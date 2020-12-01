@@ -24,7 +24,7 @@ Comfort: ❄"
 #### Fanatic Cultists
 _As you return to the town, something feels... off. The air is stale and a crackling static puts your arm hairs on end. You hear voices up ahead in the town square chanting monotonously._
 
-_Approaching the square, you see three figures dressed in black flowing garb wearing bizarre masks. They are gathered around a large pile of corpses, most of them partly decayed, and all of them covered in various amounts of fresh dirt. You recognize all of the corpses. These are the remains of the villagers that you buried in town just before heading into the portal. The cultists voices mix in an intermingled chant that is part pleasure, part pain. The chant crescendos with a deafening yelp from the trio that mixes with a wailing scream coming from inside the pile of rotting flesh. You watch in horror as the head of Hagatha rips from within the pile of bodies. Two leathery wings flap wildly from where her ears once were. Her face twists into a demonic snarl as she glides into the air with a deafening screech. The cultists all frown at the severed flying head, clearly disappointed at not summoning the right creature, before taking up their chant once again. Hagatha sniffs at the air tentatively before turning her gaze your way... Two more cultists step from behind The Winged Bear, another corpse in tow between them. They drop their quarry quickly when they see you and unsheathe long ritualistic scimitars. The other cultists continue their chant, paying you no mind at all. _
+_Approaching the square, you see three figures dressed in black flowing garb wearing bizarre masks. They are gathered around a large pile of corpses, most of them partly decayed, and all of them covered in various amounts of fresh dirt. You recognize all of the corpses. These are the remains of the villagers that you buried in town just before heading into the portal. The cultists voices mix in an intermingled chant that is part pleasure, part pain. The chant crescendos with a deafening yelp from the trio that mixes with a wailing scream coming from inside the pile of rotting flesh. You watch in horror as the head of Hagatha rips from within the pile of bodies. Two leathery wings flap wildly from where her ears once were. Her face twists into a demonic snarl as she glides into the air with a deafening screech. The cultists all frown at the severed flying head, clearly disappointed at not summoning the right creature, before taking up their chant once again. Hagatha sniffs at the air tentatively before turning her gaze your way... Two more cultists step from behind The Winged Bear, another corpse in tow between them. They drop their quarry quickly when they see you and unsheathe long ritualistic scimitars. The other cultists continue their chant, paying you no mind at all._
 
 ##### Images
 ```
@@ -72,3 +72,11 @@ Stunning Shriek: DC 12 WIS Save. Fail: Frightened (Stunned).
 !i attack Stunning Shriek -t <target> -t <target> -t <target>
 !status frightened
 ```
+
+#### Rewards
+
+1x Scroll of Summon Abyssal Familiar - _This scroll speaks of summoning and binding a ferocious demonic familiar to help you in your travels. A crude drawing, likely scrawled by the hand of the cultist you just killed shows a ferocious thousand tooth lined maw and dark soulless eye_
+
+1x Assassination Contract - _Brothers and Sisters, word has reached us of a grave undertaker and his family travelling from the south to disturb our stranglehold on the dead in Icewind. We cannot let anyone interfere with our affairs. Find Bhulin Puhi and insure the only graves he'll tend in these icy realms are his own!_
+
+2x Black Velvet Mask - _An ornate black velvet mask sitched with silver thread. The word or name Umôrdhoth is repeated several times in crude deep speech across a spiral pattern.
