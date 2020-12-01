@@ -38,7 +38,7 @@ _Approaching the square, you see three figures dressed in black flowing garb wea
 !multiline
 !i begin
 !i madd "Cultist" -n 2 -name "Cultist #"
-!i madd "Vargouille" -n 1 -name "Demon #"
+!i madd "Vargouille" -n 1 -name "Batatha"
 !i add 5 "The Ritual Strengthens" -p -hp 12
 ```
 Wait for everyone to join the combat, then:
