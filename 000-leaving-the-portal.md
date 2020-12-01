@@ -19,10 +19,8 @@ Take a few moments to describe the changes that you have undergone. Describe why
 
 ### Monster Images
 ```
-!monimage "Animated Armor"
-    (option 1)
-!monster "Animated Armor"
-    (option 1)
+!monimage Animated Armor
+!monster Animated Armor
 ```
 
 ### Combat Start

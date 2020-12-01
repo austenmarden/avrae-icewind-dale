@@ -185,7 +185,7 @@ Comfort: ❄❄"
 Services: ❄❄ 
 Comfort: ❄❄❄"
 -f "Available Quest|A Beautiful Mine"
--f "Population|600."
+-f "Population|600"
 -f "Leader|Oarus Masthew (lawful good half-orc scout) was declared speaker after a close and contentious election. The child of half-orc adventurers, he was adopted by Shaelen Masthew, the previous speaker, who retired from her leadership role but still lives in Termalaine. Oarus is bright, with a sharp sense of humor, but he has political enemies in town and lacks the full support of the town militia."
 -f "Militia|Termalaine can muster up to 50 soldiers (use the tribal warrior stat block) and 4 veterans."
 -f "Heraldry|The open-mouthed head of a fish at the bottom of a sky-blue field, its jaws parted as it swallows a large rose-pink oval. The oval is a tourmaline, symbolic of the town’s gem mining."
