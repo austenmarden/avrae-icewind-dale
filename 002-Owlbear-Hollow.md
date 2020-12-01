@@ -47,6 +47,24 @@ Wait for everyone to join the combat, then:
 ```
 
 #### Monster Attacks
+**The Ritual Strengthens**
+The cultists not engaged with the party will continue to try to summon their actual demon target, a Bulezau named Kyyr'ilzx'leth that they believe will welcome them with open hooves. Each turn that the ritual continues, for each cultists participating in the ritual, 1 point of summoning is added to the pool. The ritual needs 12 points to complete.
+
+```
+!monimage Bulezau
+!i madd Bulezau -n 1 -name "Kyyr"
+```
+
+Barbed Tail: Attack: +4 to hit. Hit: 1d12 + 2 [piercing] damage, DC 13 CON Save. Fail: Diseased (Poisoned).
+```
+!i attack Barbed Tail -t <target> 
+!status poisoned
+```
+
+Rotting Presence: DC 13 CON Save. Fail: 1d6 + 1 [necrotic] damage.
+```
+!i attack Rotting Presence -t <target> 
+```
 
 **Cultist**
 Scimitar: Attack: +3 to hit. Hit: 1d6 + 1 [slashing] damage.
