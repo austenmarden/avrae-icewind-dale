@@ -35,6 +35,8 @@
 ## Lookup a rule
 `!rule <rule>`
 
+# Player Utilities Add-on
+[Avrae Workshop Link](https://avrae.io/dashboard/workshop/5f88d637f2d59b2718721a9a)
 ## Concentration
 `!conc`
 
