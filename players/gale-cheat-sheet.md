@@ -1,0 +1,70 @@
+# Gale Cheat Sheet
+## Attacks
+
+### Quarterstaff
+`!attack Quarterstaff <target>`
+### 2-Handed Quarterstaff
+`!attack "2-Handed Quarterstaff" <target>`
+### Unarmed Strike
+`!attack "Unarmed Strike" <target>`
+
+## Spellbook
+### Cantrips
+#### Chill Touch
+`!cast "Chill Touch" <target>`
+
+#### Mage Hand
+`!cast "Mage Hand" <target>`
+
+#### Mending
+`!cast Mending`
+
+#### Mind Sliver
+`!cast "Mind Sliver" <target>`
+
+#### Toll the Dead
+`!cast "Toll the Dead" <target>`
+
+### 1st Level
+#### Cause Fear
+`!cast "Cause Fear" <target>`
+
+#### False Life
+`!cast "False Life"`
+
+#### Ray of Sickness
+`!cast "Ray of Sickness" <target>`
+
+#### Tasha's Caustic Brew
+`!cast "Tasha's Caustic Brew" <target>`
+
+## Wizard Specific
+
+### Arcane Recovery
+#### Recover a 1st level spell
+`!arcane-recovery-1st-level`
+##### Alias Code
+```
+!serveralias arcane-recovery-1st-level embed {{cc="Arcane Recovery - 1st Level"}} 
+<drac2>
+recoveredAmount = 1
+if character().cc_exists("Arcane Recovery"):
+    if character().get_cc("Arcane Recovery") >= recoveredAmount:
+        currentSlots = character().spellbook.get_slots(1)
+        maxSlots = character().spellbook.get_max_slots(1)
+        if (currentSlots != maxSlots):
+            character().mod_cc("Arcane Recovery", (-1 * recoveredAmount), strict=True)
+            character().spellbook.set_slots(1, character().spellbook.get_slots(1) + recoveredAmount)
+            result = f"{name} recovers {recoveredAmount} spell slots"
+        else:
+            result = f"{name} already has the maximum amount of 1st level spells"
+    else:
+        result = f"{name} does not have enough arcane recovery at the moment. These charges can be recharged with a short or long rest."
+else:
+    result = f"{name} does not have the Arcane Recovery feature."
+</drac2>
+-f "Result|{{result}}"
+-desc "You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher."
+-thumb https://i.pinimg.com/236x/26/df/54/26df5434448341bcd2c72bb9391849b9.jpg
+-title "Arcane Recovery - 1st Level"
+```
