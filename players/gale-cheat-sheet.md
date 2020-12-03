@@ -43,7 +43,9 @@
 ### Arcane Recovery
 #### Recover a 1st level spell
 `!arcane-recovery-1st-level`
-##### Alias Code
+<details>
+  <summary>Alias Code</summary>
+   
 ```
 !serveralias arcane-recovery-1st-level embed {{cc="Arcane Recovery - 1st Level"}} 
 <drac2>
@@ -68,3 +70,4 @@ else:
 -thumb https://i.pinimg.com/236x/26/df/54/26df5434448341bcd2c72bb9391849b9.jpg
 -title "Arcane Recovery - 1st Level"
 ```
+</details>
