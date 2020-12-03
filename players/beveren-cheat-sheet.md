@@ -29,7 +29,9 @@
 ### Stone's Endurance
 `!stones-endurance`
 
-#### Alias Code
+<details>
+  <summary>Alias Code</summary>
+    
 ```
 !serveralias stones-endurance embed {{cc="Stone's Endurance"}} 
 <drac2>
@@ -46,3 +48,4 @@ else:
 -thumb https://i.imgur.com/9yPkSh9.png
 -title "Stone's Endurance"
 ```
+</details>
