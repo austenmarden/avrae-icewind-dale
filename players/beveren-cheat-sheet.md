@@ -27,8 +27,6 @@
 ## Goliath Specific
 
 ### Stone's Endurance
-
-#### Usage
 `!stones-endurance`
 
 #### Alias Code
