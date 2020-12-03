@@ -111,3 +111,5 @@ Stunning Shriek: DC 12 WIS Save. Fail: Frightened (Stunned).
 1x Ritual Scimitar - 25 gp - 1d6 slashing - 3 lbs - Finesse, Light - _This strangely forged scimitar's blade curves haphazardly, as if forged by the hands of a mad man._
 
 1x Half Empty Barrel of "Special Syrup"	- 20gp - _A two gallon stone ware jug containing a pungent smelling unknown sticky substance that reeks of rotten fish and old tree sap. The side of the jug is stamped with an emblem of a dead fish with a tree growing out of its guts and the letters N. R. U. in a fancy script below._ - DC10 Nature, DC15 Medicine check: _You can tell that this is hallucinogenic tree sap syrup, a favorite of the downtrodden in Icewind Dale. Its use is outlawed in all of the ten towns, as its most common side effect is delusions of grandeur, breaks with reality and generalized psychosis._
+
+1x Healer's Kit with 7 uses remaining - _You question the sanity of using any healing kits that these cultists trusted..._
