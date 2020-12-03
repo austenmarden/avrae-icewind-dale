@@ -2,41 +2,41 @@
 ## Attacks
 
 ### Quarterstaff
-`!attack Quarterstaff <target>`
+`!attack Quarterstaff -t `
 ### 2-Handed Quarterstaff
-`!attack "2-Handed Quarterstaff" <target>`
+`!attack "2-Handed Quarterstaff" -t `
 ### Unarmed Strike
-`!attack "Unarmed Strike" <target>`
+`!attack "Unarmed Strike" -t `
 
 ## Spellbook
 ### Cantrips
 #### Chill Touch
-`!cast "Chill Touch" <target>`
+`!cast "Chill Touch" -t `
 
 #### Mage Hand
-`!cast "Mage Hand" <target>`
+`!cast "Mage Hand" -t `
 
 #### Mending
 `!cast Mending`
 
 #### Mind Sliver
-`!cast "Mind Sliver" <target>`
+`!cast "Mind Sliver" -t `
 
 #### Toll the Dead
-`!cast "Toll the Dead" <target>`
+`!cast "Toll the Dead" -t `
 
 ### 1st Level
 #### Cause Fear
-`!cast "Cause Fear" <target>`
+`!cast "Cause Fear" -t `
 
 #### False Life
 `!cast "False Life"`
 
 #### Ray of Sickness
-`!cast "Ray of Sickness" <target>`
+`!cast "Ray of Sickness" -t `
 
 #### Tasha's Caustic Brew
-`!cast "Tasha's Caustic Brew" <target>`
+`!cast "Tasha's Caustic Brew" -t `
 
 ## Wizard Specific
 
