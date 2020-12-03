@@ -55,7 +55,7 @@ if character().cc_exists("Arcane Recovery"):
         if (currentSlots != maxSlots):
             character().mod_cc("Arcane Recovery", (-1 * recoveredAmount), strict=True)
             character().spellbook.set_slots(1, character().spellbook.get_slots(1) + recoveredAmount)
-            result = f"{name} recovers {recoveredAmount} spell slots"
+            result = f"{name} recovers {recoveredAmount} 1st level spell slot"
         else:
             result = f"{name} already has the maximum amount of 1st level spells"
     else:
