@@ -1,22 +1,22 @@
 # Beveren Cheat Sheet
 ## Attacks
 ### Pike
-`!attack Pike <target>`
+`!attack Pike -t`
 
 ### Quarterstaff
-`!attack Quarterstaff <target>`
+`!attack Quarterstaff -t`
 
 ### 2-Handed Quarterstaff
-`!attack "2-Handed Quarterstaff" <target>`
+`!attack "2-Handed Quarterstaff" -t`
 
 ### Unarmed Strike
-`!attack "Unarmed Strike" <target>`
+`!attack "Unarmed Strike" -t`
 
 ### Polearm Master - Bonus Attack
-`!attack "Polearm Master - Bonus Attack" <target>`
+`!attack "Polearm Master - Bonus Attack" -t`
 
 ### Polearm Master - Opportunity Attack
-`!attack "Polearm Master - Opportunity Attack" <target>`
+`!attack "Polearm Master - Opportunity Attack" -t`
 
 ## Barbarian Specific
 [Workshop Commands](https://avrae.io/dashboard/workshop/5f73c28d647bb0a416316d32)
