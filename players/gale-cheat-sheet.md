@@ -1,4 +1,10 @@
 # Gale Cheat Sheet
+
+## General Commands
+
+### Roll Initiative
+`!init join`
+
 ## Attacks
 
 ### Quarterstaff
